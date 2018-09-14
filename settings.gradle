@@ -1,0 +1,4 @@
+rootProject.name = 'dubbotest'
+include 'api'
+include 'client'
+include 'server'
